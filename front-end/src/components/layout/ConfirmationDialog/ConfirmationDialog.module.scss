@@ -1,0 +1,62 @@
+.dialog-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 20.75rem;
+    height: 11.125rem;
+    border-radius: 0.5rem !important;
+    background: #FFF;
+    padding: 1.25rem 1.25rem 0.99rem 1.25rem;
+
+    p {
+        margin: 0;
+        color: #333;
+        font-family: 'DM Sans', sans-serif;
+        font-style: normal;
+        line-height: 1.25rem;
+
+        &:nth-child(1) {
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+
+        &:nth-child(2) {
+            font-size: 0.875rem;
+            font-weight: 400;
+        }
+    }
+
+    .action {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        button {
+            color: #333;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 0.75rem;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 1.25rem;
+            border: none;
+            background-color: white;
+            cursor: pointer;
+
+            &:nth-child(2) {
+                width: 8.1875rem;
+                height: 2.13281rem;
+                flex-shrink: 0;
+                border-radius: 0.5rem;
+                background: #20A164;
+                color: white;
+                font-weight: 700;
+            }
+            &.red{
+                background-color: #E1392D;
+            }
+        }
+        
+    }
+}

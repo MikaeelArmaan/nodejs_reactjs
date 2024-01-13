@@ -1,0 +1,69 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+
+    .message {
+        p {
+            margin: 0;
+
+            &:nth-child(1) {
+                color: #000;
+                font-family: "DM Sans", sans-serif;
+                font-size: 1.5rem;
+                font-style: normal;
+                font-weight: 700;
+                line-height: normal;
+            }
+
+            &:nth-child(2) {
+                color: #000;
+                font-family: "DM Sans", sans-serif;
+                font-size: 1rem;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+            }
+        }
+    }
+
+    .profile {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+
+
+        img {
+            width: 2.5rem;
+            height: 2.5rem;
+            border-radius: 50px;
+            margin-right: 0.75rem;
+        }
+
+
+        .user-details {
+            p {
+                margin: 0;
+
+                &:nth-child(1) {
+                    color: #103C64;
+                    font-family: 'DM Sans', sans-serif;
+                    font-size: 0.875rem;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 1.25rem;
+                }
+
+                &:nth-child(2) {
+                    color: #D64A40;
+                    font-family: 'DM Sans', sans-serif;
+                    font-size: 0.625rem;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 0.9375rem;
+                }
+            }
+        }
+    }
+}

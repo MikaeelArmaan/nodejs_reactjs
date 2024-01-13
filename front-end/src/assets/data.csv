@@ -1,0 +1,75 @@
+Department,DocumentType,Geography,Technology,Domain,Client,FileType,Description,Link
+AutomationTwin,Demo,Global,RPA,General,None,Video,"Platform Demo ",https://drive.google.com/file/d/1d1pl3hTfrMuDcE-y6ddeC0vgWbOTERaK/view?usp=drive_link
+AutomationTwin,Presentation,Global,RPA,General,,Powerpoint,,https://docs.google.com/presentation/d/1NS4uB1ZFEtwfzmYuqsJhcqPixPqb85wt/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+AutomationTwin,Case Study,Global,RPA,Utility,,Powerpoint,,https://docs.google.com/presentation/d/1VnAeklJUEmeWhx3npxQpUnVWj7T4evyA/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+AutomationTwin,Case Study,Global,RPA,Utility,,Powerpoint,,https://docs.google.com/presentation/d/1ppD34OtrGZRjN5GqXqDC3DjMGY5HH2bS/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+CloudifyLabs,Demo,Global,Testing Infrastructure,Testing/QA,None,Video,,https://drive.google.com/file/d/1s7ticQGg4A8I-nfYI_HxQ7bGomsuCWim/view?usp=drive_link
+CloudifyLabs,Presentation,Global,General,Testing/QA,,Powerpoint,,https://docs.google.com/presentation/d/1JBeIKYGKaEvq_XsYW4cjpLBRfIk565hs/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+SimplifyPath,Demo,Global,NLP,Productivity,None,Video,,https://drive.google.com/file/d/1zBsD-LL2Olk-uO06pSOJO1SakQLZunIt/view?usp=drive_link
+SimplifyPath,Demo,Global,NLP,Productivity,None,Video,,https://drive.google.com/file/d/1TnUa6a2kj8a5oLDJAceOqcQ8w6iTPWUX/view?usp=drive_link
+TFTAI,Demo,Global,SpeechToText,Healthcare,None,Video,RAK Speech to Text Demo,https://drive.google.com/file/d/1WXmxhU_URjLpwTuaHkyrsN--14vtaniD/view?usp=sharing
+TFTAI,Case Study,Global,SpeechToText,Healthcare,,Powerpoint,"RAK Case Study - Speech to Text ",https://docs.google.com/presentation/d/17bboiQpmmJh_Z99fqUuM7VVlbCtzk5gl/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTAI,Demo,Global,ComputerVision,AI,,Video,"Object Detection: Truck Detection from a Distance ",https://drive.google.com/file/d/1GNamh-pG_baVLyfw4kak1g7946p-M4-n/view?usp=sharing
+TFTAI,Case Study,Global,ChatBot,General,,Powerpoint,"Use cases related to different types of Chatbots for different industries ",https://docs.google.com/presentation/d/1QFtdlxig-uMCpQxumKzO5CUoe1njVcFn/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTAI,Demo,Global,NLP,AI,,Video,"OCR and ICR Demo : PNB Bank POC ",https://drive.google.com/file/d/1-YegZ5BnJujW0Tsx72MIKkUEWZKpXx93/view?usp=sharing
+TFTAI,Presentation,Global,General,AI,,Powerpoint,Complete Overview of TFT's AI/ML Capabilities - New (#2),https://docs.google.com/presentation/d/1Z5bmqiw9Fw4RVbeQz3nBch-GVkYk1eVh/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTAI,Case Study,Global,NLP,Pharma,,Powerpoint,"Pharma Case Studies -
+1. Cipla: Document Verification with Regulatory industry standard Documents (LLP, NLP based Solution)
+2. Troikaa: Critical Action Detection (Computer Vision)",https://docs.google.com/presentation/d/1JYKWdMvLpo9oLUqMYre_oCSeMhMpfmGb/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTAI,Case Study,Global,ChatBot,Manufacturing,,Powerpoint,"L1 Support - FAQ Chatbot ",https://docs.google.com/presentation/d/1RKQmtykEgBP4a7V2XZLn5VpR6L2hgRw_/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTAI,Demo,Global,NLP,AI,,Video,"OCR on Containers ",https://drive.google.com/file/d/1JKSsJB4FI3ENkgn0XCYihcqRGp_MXmCq/view?usp=sharing
+TFTAI,Presentation,Global,General,AI,,Powerpoint,Complete Overview of TFT's AI/ML Capabilities - Old (#1),https://docs.google.com/presentation/d/1XV7CmLc7HE26-O4s50LbnyMSeT1mNlMH/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTAI,Demo,Global,NLP,AI,,Video,"OCR + Container Detection ",https://drive.google.com/file/d/1-eQiZZTbGy-FfHZNuV4ff4u00aV_aREX/view?usp=sharing
+TFTAI,Case Study,Global,ComputerVision,Logistics,,Powerpoint,"Computer Vision Solution - Number Plate Detection ",https://docs.google.com/presentation/d/10RIZnXwEaBYjHWpqBbIfBYNaWi42Zx8-/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTAI,Case Study,Global,ComputerVision,Manufacturing,,Powerpoint,"Computer Vision Solution - Detecting Protective Gears are worn or not (Manufacturing)
+",https://docs.google.com/presentation/d/13sB42fXS-7gA39d8oFiKxnS_6oRO6DVZ/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTAI,Demo,Global,ComputerVision,AI,,Video,Facial Recognition Solution (Generic Video),https://drive.google.com/file/d/1zec0r2geGUMcc2wlU8KsjjaMsyQM65OI/view?usp=sharing
+TFTAI,Case Study,Global,ComputerVision,Manufacturing,,Powerpoint,"Computer Vision Solution - Prohibited Action Detectoon (Manufacturing)
+Related to Luminous Use Case",https://docs.google.com/presentation/d/1Fx7GnbBNtHBmInlLcyw0joHN6Ns82Q81/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTAI,Demo,Global,NLP,AI,,Video,OCR and ICR General Demo,https://drive.google.com/file/d/1AkQeC1c67LXp9pZZSIgrwum6X_3YWJQP/view?usp=sharing
+TFTAI,Case Study,Global,ComputerVision,Manufacturing,,Powerpoint,Computer Vision Solution - Warehouse Management (Logistics & Supply Chain),https://docs.google.com/presentation/d/1dn3yC_T04ufbyN95LR5l9g9Rmir6ftJO/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTAI,Demo,Global,SpeechToText,Healthcare,None,Video,General Speech to Text,https://drive.google.com/file/d/17SgmEQa_cinJ06wnMR1B0jLO5eI6FdZO/view?usp=sharing
+TFTAI,Demo,Global,ComputerVision,AI,,Video,"Automated Gate System for Authorised Vehicles (Identifying, extracting and matching the number plates)",https://drive.google.com/file/d/1_43eFeqhu0QCXSJG7kenArH-D1U1-3cO/view?usp=sharing
+TFTAI,Demo,Global,ComputerVision,AI,,Video,"PPE Kit Detection ",https://drive.google.com/file/d/1hYyQ-Q3JU19swxxU6AFhc4OHSSZMr0Tj/view?usp=sharing
+TFTAI,Demo,Global,ComputerVision,AI,,Video,"Action Detection : Head Gear not Worn propoerly ",https://drive.google.com/file/d/1sgcir4KinNFkXJVns8H6e8JXGrHxoi7Q/view?usp=sharing
+TFTAI,Demo,Global,ComputerVision,AI,,Video,"Action Detection : Door Opening ",https://drive.google.com/file/d/1ESmZz0xIl8kGs9svwSeTgAV437Hz-TDt/view?usp=sharing
+TFTAI,Demo,Global,SpeechToText,Healthcare,None,Video,"Healthcare specific Speech to Text ",https://drive.google.com/file/d/1iu75Ct1ELiESOhzTEIQhWNmGspa6IioA/view?usp=sharing
+TFTAI,Demo,Global,ChatBot,AI,,Video,"Telecom Based Chatbot - Bill Payment & Enquiry ",https://drive.google.com/file/d/1XR9nWG37sXNF0IX_fWqt7dCiRFN6IgoS/view?usp=sharing
+TFTAI,Demo,Global,ComputerVision,AI,,Video,"Number Plate Detection ",https://drive.google.com/file/d/1G974tGA2qIGZ0tyWobdj0fpTHkYSvwf2/view?usp=sharing
+TFTAI,Demo,Global,ComputerVision,AI,,Video,"Action Detection : No Mask ",https://drive.google.com/file/d/1gMW7XBiJLc6G7K4bff3ZC9pGWqZX8iib/view?usp=sharing
+TFTAI,Demo,Global,ChatBot,AI,,Video,"Whatapp Chatbot Demo ",https://drive.google.com/file/d/16M7pRZWeUFfONbYnCw0RBuw2WYXhr4bD/view?usp=sharing
+TFTAI,Demo,Global,ChatBot,AI,,Video,"TFT Employee Pulse Chabot Demo ",https://drive.google.com/file/d/1C8iSzOWRrffQpVuIhBKloRf8kS4Lealt/view?usp=sharing
+TFTPL,Case Study,Global,QA,AI,,Powerpoint,,https://docs.google.com/presentation/d/1OhK_WIpiO1_vJnnN0seoRxC6Gdt7von8/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,"Data Engineering ",General,,Powerpoint,,https://docs.google.com/presentation/d/1WJFCKKjI1_WhkguPocgg7s8c-S1dXpFS/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,UAE,Mobile App Dev,Agri-Tech,,Powerpoint,,https://docs.google.com/presentation/d/1hTWbZMxKoPgwBV6fnTofFCsyaTauQQDr/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Presentation,Global,Design,General,,Powerpoint,,https://docs.google.com/presentation/d/1xk4_eXsOi5o8PVkaAz4pGv13fy4woB-3/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,Web App Dev,Ecommerce,,Powerpoint,,https://docs.google.com/presentation/d/1HpV3MtR5wzm8tCw0MTw8bRArihXmbBlL/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,UAE,Mobile App Dev,Healthcare,,Powerpoint,,https://docs.google.com/presentation/d/1tb6ZlKul1FGVHUUX9WLYEYDX1H4CjH8U/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,Web App Dev,Fin-Tech,,Powerpoint,,https://docs.google.com/presentation/d/13Zr35OpqH_5f0C6_Uaa11mxCnJrtdixV/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Corporate Deck,Global,General,General,WithClient,Powerpoint,Corporate Deck shareable to anyone except UAE and Israel - With Clientele,https://docs.google.com/presentation/d/1FyE2rET0suRe5ym2yhvTl_2p4nam_v3x/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,Mobile App Dev,Healthcare,,Powerpoint,,https://docs.google.com/presentation/d/1IrN4zJoCCVIntCIr5uvR24ezzIEKtN7k/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,Mobile App Dev,Agri-Tech,,Powerpoint,,https://docs.google.com/presentation/d/1lSM1w0NSyn007X1yxfphjTLepbmxWLS1/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,Performance Testing,Automobile,,Powerpoint,,https://docs.google.com/presentation/d/1vATUgQv2RSBPmv19s6UvhcoitLQhj203/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Presentation,UAE,Salesforce,General,,Powerpoint,,https://docs.google.com/presentation/d/11prQUaWMEpih2pJqKZ8BqVvE2wegK7Tp/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,UAE,Security,General,,Powerpoint,,https://docs.google.com/presentation/d/19iIR1NN6M0MHfLTkK5Y_2qx4EZCcVHZj/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Corporate Deck,Global,General,General,WithoutClient,Powerpoint,Corporate Deck shareable to anyone except UAE and Israel - Without Clientele,https://docs.google.com/presentation/d/1KOXBjwmrRamvaSAtYFyp-QnOxfvcomUZ/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Corporate Deck,UAE,General,General,WithClient,Powerpoint,UAE Specific Corporate Deck with Clientele,https://docs.google.com/presentation/d/1zOdZOex_Kpz5bIeCD3ddUARKXNyQ2f6i/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Corporate Deck,UAE,General,General,WithoutClient,Powerpoint,UAE Specific Corporate Deck without Clientele,https://docs.google.com/presentation/d/1SXRTUKRe-M4C0lQMXgllDQ8RAeTfE60b/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,Salesforce,Testing/QA,,Powerpoint,,https://docs.google.com/presentation/d/1KGVmfe9ITKxW_AGOtJ5Idnlf-yya-Auk/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Presentation,Global,Salesforce,General,,Powerpoint,,https://docs.google.com/presentation/d/1DE7J0d79Jfoz5x0sMmP2On6kVowp1hEC/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Presentation,UAE,QA,Testing/QA,,Powerpoint,,https://docs.google.com/presentation/d/1iAaXgFgg4aRTuihosm8TvCG7vdXyR7jK/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Presentation,Global,QA,Testing/QA,,Powerpoint,,https://docs.google.com/presentation/d/1lNKOUvEiIWNbKBzz23ST8zS7x7UCY_QY/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Presentation,Global,Business Intelligence,General,,Powerpoint,,https://docs.google.com/presentation/d/195INxtDETz2udT-eYajPfvbu-RUd-9DI/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Presentation,UAE,Business Intelligence,General,,Powerpoint,,https://docs.google.com/presentation/d/1BAukLV3MUwmdIIPeIAi-C5n1jN0bxzhl/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,UAE,"Data Engineering ",General,,Powerpoint,,https://docs.google.com/presentation/d/1akOgPn1BOApeWFwUFGm6JLduCvaHWEw_/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,"Automation Testing ",Telecom,,Powerpoint,,https://docs.google.com/presentation/d/1ZBzZZeXb-zrhcdNyHDPSdcxg238uDwHr/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,"Automation Testing ",Ecommerce,,Powerpoint,,https://docs.google.com/presentation/d/17xxCp-ef8rsZTEi-JaBgkvWXdo60x8Ou/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Presentation,UAE,Design,General,,Powerpoint,,https://docs.google.com/presentation/d/1IBmFrhKgo2e-Ap-jjqbMNsPvuPcplpY_/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,"Automation Testing ",Ed-Tech,,Powerpoint,,https://docs.google.com/presentation/d/1DM_-RdHR4A9eFwrwT1xtRyhwpq-vTyzR/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,"Automation Testing ",Healthcare,,Powerpoint,,https://docs.google.com/presentation/d/1_BWGwBpMImuULtg1CeNVeFdYWDEj85R3/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,Salesforce,Internet & Tech,,Powerpoint,,https://docs.google.com/presentation/d/1PkoRuH6YDrj3UxIVjz457t-lP8exipFe/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,"Automation Testing ",Internet & Tech,,Powerpoint,,https://docs.google.com/presentation/d/1ljy6rTYnh9n2f9mdf0LXD1t7HNLrL-l9/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,UAE,Web App Dev,Ecommerce,,Powerpoint,,https://docs.google.com/presentation/d/1GZhr3H2mYTnLkUMFqWxEQdQVL7Euz1on/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,UAE,Web App Dev,Fin-Tech,,Powerpoint,,https://docs.google.com/presentation/d/1wPEaxHRif4gybcI3FjvibBM330QUr09y/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Case Study,Global,Security,General,,Powerpoint,,https://docs.google.com/presentation/d/17Coq0ncyO5A4nQ4RkehSVrIIIHMFeAvL/edit?usp=sharing&ouid=101211574375139153412&rtpof=true&sd=true
+TFTPL,Corporate Deck,Israel,General,General,WithClient,Powerpoint,Israel Specific Corporate Deck with Clientele,https://docs.google.com/presentation/d/1uY11SWm9SQLOC82nChd6YuSenV5F3_jv/edit?usp=drive_link&ouid=112436391091007077656&rtpof=true&sd=true
